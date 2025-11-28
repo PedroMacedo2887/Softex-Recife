@@ -1,0 +1,36 @@
+.card-noticia {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 15px;
+  max-width: 350px;
+  background-color: white;
+}
+
+.noticia-categoria {
+  display: inline-block;
+  padding: 4px 8px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.noticia-titulo {
+  margin: 10px 0;
+  color: #333;
+  font-size: 18px;
+}
+
+.noticia-descricao {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
+.noticia-data {
+  color: #999;
+  font-size: 12px;
+}

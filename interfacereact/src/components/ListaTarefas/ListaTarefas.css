@@ -1,0 +1,41 @@
+.lista-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.lista-titulo {
+  margin-top: 0;
+  color: #333;
+  font-size: 22px;
+}
+
+.lista-itens {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tarefa-item {
+  padding: 10px;
+  margin-bottom: 8px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.tarefa-checkbox {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.tarefa-concluida {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.tarefa-pendente {
+  color: #333;
+}

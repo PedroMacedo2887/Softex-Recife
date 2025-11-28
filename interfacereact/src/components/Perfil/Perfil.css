@@ -1,0 +1,38 @@
+.perfil-container {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 300px;
+}
+
+.perfil-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #3498db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.perfil-nome {
+  margin: 5px 0;
+  color: #333;
+  font-size: 20px;
+}
+
+.perfil-info {
+  margin: 5px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.perfil-email {
+  margin: 5px 0;
+  color: #666;
+  font-size: 14px;
+}
